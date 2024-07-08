@@ -22,4 +22,4 @@ https://www.kaggle.com/datasets/oscarstep/dataset-lsc-modelo
 
 ## Enlace del video
 
-<a href="https://www.youtube.com/watch?v=CBQv5MOtzQQ" target="_blank">https://www.youtube.com/watch?v=CBQv5MOtzQQ</a>
+<a href="https://www.youtube.com/watch?v=ju31F3HHilU" target="_blank">https://www.youtube.com/watch?v=ju31F3HHilU</a>
