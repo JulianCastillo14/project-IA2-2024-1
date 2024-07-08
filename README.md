@@ -14,12 +14,12 @@ Predecir la letra del abecedario en lenguaje de señas colombiano segun la image
 https://www.kaggle.com/datasets/oscarstep/dataset-lsc-modelo
 
 
-## Modelos
+## Modelo
 
+<img src="multimedia/Modelo.jpg" width="800" height="300">
 
-## Enlace del código
-
+<a href="https://drive.google.com/file/d/1wP_dEXg44t--aesjE12xBkKwZrlgsMC-/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1wP_dEXg44t--aesjE12xBkKwZrlgsMC-/view?usp=sharing</a>
 
 ## Enlace del video
 
-
+<a href="https://www.youtube.com/watch?v=CBQv5MOtzQQ" target="_blank">https://www.youtube.com/watch?v=CBQv5MOtzQQ</a>
