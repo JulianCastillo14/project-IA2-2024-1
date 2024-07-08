@@ -8,7 +8,7 @@
  - Jerson Julian Cañon Castillo
 
 ## Objetivo
-Predicción de letras del abecedario en Lenguaje de Señas Colombiano basada en imágenes para facilitar la comunicación de personas sordas en el país.
+Predecir letras del Lenguaje de Señas Colombiano basado en imágenes para facilitar la comunicación de personas sordas en el país.
 
 ## Dataset 
 https://www.kaggle.com/datasets/oscarstep/dataset-lsc-modelo
