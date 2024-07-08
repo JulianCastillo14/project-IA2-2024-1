@@ -1,7 +1,7 @@
 # DETECCIÓN DE LETRAS DEL ABECEDARIO DEL LENGUAJE DE SEÑAS COLOMBIANO (LSC)
 <img src="multimedia/Banner.png" width="800" height="300">
 
-## Autores:
+## Autores
 
  - Andrés Felipe Mejía Perdomo 
  - Juan Camilo Garavito Lozada 
